@@ -1,0 +1,13 @@
+{
+  "name": "session-monitor",
+  "description": "Shows every running Claude Code session and what it is doing right now.",
+  "owner": {
+    "name": "Taha-Aalam"
+  },
+  "plugins": [
+    {
+      "name": "session-monitor",
+      "source": "./"
+    }
+  ]
+}

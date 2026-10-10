@@ -1,0 +1,7 @@
+{
+  "name": "session-monitor",
+  "version": "0.1.0",
+  "description": "Shows every running Claude Code session.",
+  "author": { "name": "Taha-Aalam" },
+  "types": "./types/index.d.ts"
+}
